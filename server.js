@@ -1,5 +1,5 @@
 // Author: ChatGPT
-// Date: 2021-09-23 16:30
+// Date: 2021-09-23
 
 // server.js (Node.js 后端)
 const express = require('express');
