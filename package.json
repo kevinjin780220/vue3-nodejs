@@ -4,6 +4,8 @@
     "express": "^4.21.2"
   },
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "dev": "nodemon --inspect server.js"
+
   }
 }
