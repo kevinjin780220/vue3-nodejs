@@ -1,4 +1,4 @@
-// Author: ChatGPT
+// Author: ChatGPT & Kevin Jin
 // Date: 2025-01-21
 
 // server.js (Node.js 后端)
