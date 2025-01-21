@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
 
-// 使用 body-parser 中间件解析 JSON 请求体
+// 使用 body-parser 中间件解析JSON请求体
 app.use(bodyParser.json());
 
 let users = [
