@@ -3,4 +3,5 @@
    npm install
 2. 在packge.json中添加"start": "nodemon index.js"
 3. 运行npm run starts
+4. 访问http://localhost:3000/
 
